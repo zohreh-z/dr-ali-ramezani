@@ -29,7 +29,7 @@ Final project of CIW design
 
 
 ### All rights reserved ###
-Please note that IronArts.ir is a curated site and that we reserve the right to refuse any listing for any reason.
+Please note that Aliramezani.ir is a curated site and that we reserve the right to refuse any listing for any reason.
 
 The [Aliramezani.ir](http://Aliramezani.ir) code and website is released under a MIT License.
 
